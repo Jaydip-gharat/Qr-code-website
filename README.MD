@@ -10,7 +10,7 @@ This is my solution to the Frontend Mentor QR Code Component challenge. The goal
 
 ### Links
 
-* Solution URL: Solution will be coming soon 
+* Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-component-solution-Iw33bvSsHD) 
 * Live Site URL: [Live QR-CODE Demo](https://6a269efb5b0df8229b6694a2--bespoke-mochi-d9f3fd.netlify.app/)
 
 ## My Process

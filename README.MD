@@ -9,7 +9,7 @@ This is my solution to the Frontend Mentor QR Code Component challenge. The goal
 Add a screenshot of your completed project here:
 
 ```text
-./screenshot.png
+    <img src="images/screenshot.png" alt="">
 ```
 
 ### Links
@@ -90,9 +90,8 @@ The AI assistance helped me better understand the concepts rather than simply pr
 
 ## Author
 
-* Frontend Mentor: @YOUR_USERNAME
-* GitHub: https://github.com/YOUR_USERNAME
-
+* Frontend Mentor: @jaydip-gharat
+* GitHub: https://github.com/Jaydip-gharat
 ## Acknowledgments
 
 Thanks to Frontend Mentor for providing beginner-friendly challenges that help developers practice and improve their frontend skills.

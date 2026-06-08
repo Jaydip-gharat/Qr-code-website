@@ -6,11 +6,7 @@ This is my solution to the Frontend Mentor QR Code Component challenge. The goal
 
 ### Screenshot
 
-Add a screenshot of your completed project here:
-
-```text
-    <img src="images/screenshot.png" alt="">
-```
+![QR Code Project Screenshot](/images/screenshot.png)
 
 ### Links
 

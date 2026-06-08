@@ -10,8 +10,8 @@ This is my solution to the Frontend Mentor QR Code Component challenge. The goal
 
 ### Links
 
-* Solution URL: Add your Frontend Mentor solution URL here
-* Live Site URL: [Add your deployed website URL here](https://6a269efb5b0df8229b6694a2--bespoke-mochi-d9f3fd.netlify.app/)
+* Solution URL: Solution will be coming soon 
+* Live Site URL: [Live QR-CODE Demo](https://6a269efb5b0df8229b6694a2--bespoke-mochi-d9f3fd.netlify.app/)
 
 ## My Process
 
